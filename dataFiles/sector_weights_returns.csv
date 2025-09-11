@@ -1,0 +1,13 @@
+﻿sector,etf_ticker,recent_weight,1Y_return,3Y_return,5Y_return,10Y_return
+S&P Information Technology ,XLK,0.2422,34.83,42.63,30.82,23.07
+S&P Consumer Discretionary ,XLY,0.0632,27.93,28.65,21.58,19.58
+S&P Healthcare ,XLV,0.1309,25.59,19.69,17.28,16.95
+US Large Cap Blend ,SPY,1,28.74,25.99,18.36,16.45
+S&P Financials ,XLF,0.1423,34.82,20.46,13.15,16.15
+S&P Industrials ,XLI,0.0886,21.09,20.15,13.28,14.34
+S&P Materials ,XLB,0.0227,27.45,24,15.02,12.77
+S&P Real Estate ,XLRE,0.0257,45.26,22.31,14.61,12.56
+S&P Consumer Staples ,XLP,0.12,17.2,18.05,11.31,11.99
+S&P Communication Services ,XLC,0.1114,15.96,24.47,8.69,11.16
+S&P Utilities ,XLU,0.0245,16.81,13.94,11.49,10.82
+S&P Energy ,XLE,0.0286,53.31,4.95,-1.29,1.34
